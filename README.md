@@ -6,7 +6,7 @@ The **React** Design is crafted by [CodedThemes](https://codedthemes.com/?ref=ap
 
 - 👉 [Django React Berry](https://appseed.us/product/berry-dashboard/api-server-django/react/) - product page
 - 👉 [Django React Berry](https://django-react-berry-dashboard.appseed-srv1.com/) - LIVE Demo
-- 🚀 Built with [React App Generator](https://appseed.us/generator/react/), timestamp `2023-02-11 10:38`
+- 🚀 Built with [React App Generator](https://appseed.us/generator/react/), timestamp 
 
 <br />
 
