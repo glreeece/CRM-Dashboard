@@ -153,7 +153,7 @@ $ docker-compose up --build
 
 <br />
 
-## [React Berry Dashboard PRO](https://appseed.us/product/berry-dashboard-pro/full-stack/)
+## [NexaSalesAI CRM Dashboard_FrontEnd_ReactJS]
 
 > For more components, pages and priority on support, feel free to take a look at this amazing starter:
 
